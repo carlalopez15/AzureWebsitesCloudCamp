@@ -1,0 +1,6 @@
+c:\users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\bin\CloudCampAzureWebSiteDemo.dll.config
+c:\users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\bin\CloudCampAzureWebSiteDemo.dll
+c:\users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\bin\CloudCampAzureWebSiteDemo.pdb
+c:\users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\obj\Debug\CloudCampAzureWebSiteDemo.dll
+c:\users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\obj\Debug\CloudCampAzureWebSiteDemo.pdb
+C:\Users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\obj\Debug\CloudCampAzureWebSiteDemo.csprojResolveAssemblyReference.cache

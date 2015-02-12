@@ -1,0 +1,5 @@
+C:\Users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\bin\CloudCampAzureWebSiteDemo.dll.config
+C:\Users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\bin\CloudCampAzureWebSiteDemo.dll
+C:\Users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\bin\CloudCampAzureWebSiteDemo.pdb
+C:\Users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\obj\Release\CloudCampAzureWebSiteDemo.dll
+C:\Users\carlalo\documents\visual studio 2013\Projects\CloudCampAzureWebSiteDemo\CloudCampAzureWebSiteDemo\obj\Release\CloudCampAzureWebSiteDemo.pdb

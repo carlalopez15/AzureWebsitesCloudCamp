@@ -42,7 +42,7 @@
 
               <section id="Azure-Websites">
                 <div class="intro block">
-                  <h2>Azure Websites</h2>
+                  <h2>Azure Websites Github</h2>
 
                   <p>Esta pagina esta hecha para dar una demostracion de lo que azure websites puede hacer</p>
                   <p>Version 2</p>
